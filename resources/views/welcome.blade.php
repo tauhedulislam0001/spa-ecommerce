@@ -23,7 +23,7 @@
     </head>
     <body class="antialiased">
         <div class="render-vue" id="app">
-            
+            <App><App/>
         </div>
     </body>
 </html>
