@@ -1,5 +1,5 @@
 <template>
     <div>
-        <center>App vue is loading...</center>
+        <router-view></router-view>
     </div>
 </template>
